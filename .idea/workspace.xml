@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46d033cb-e689-4996-9df8-53095b7c0dc5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+              <folding>
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/Director.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StaffTest/ManagementTest/DirectorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Staff/Management/Manager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/TechStaff/Developer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/TechStaff/DatabaseAdmin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StaffTest/ManagementTest/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StaffTest/TechStaffTest/DatabaseAdminTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StaffTest/TechStaffTest/DeveloperTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StaffTest/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/Employee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StaffTest/ManagementTest/DirectorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/Management/Director.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Staff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Staff" type="462c0819:PsiDirectoryNode" />
+              <item name="Management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StaffTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InheritanceLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StaffTest" type="462c0819:PsiDirectoryNode" />
+              <item name="ManagementTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DirectorTest.canCheckPayBonus">
+    <configuration name="DeveloperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InheritanceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaffTest.TechStaffTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StaffTest.TechStaffTest" />
+      <option name="MAIN_CLASS_NAME" value="StaffTest.TechStaffTest.DeveloperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InheritanceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaffTest.ManagementTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StaffTest.ManagementTest" />
+      <option name="MAIN_CLASS_NAME" value="StaffTest.ManagementTest.DirectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest.canCheckPayBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InheritanceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaffTest.ManagementTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StaffTest.ManagementTest" />
+      <option name="MAIN_CLASS_NAME" value="StaffTest.ManagementTest.DirectorTest" />
+      <option name="METHOD_NAME" value="canCheckPayBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.canNotChangeNameIfEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InheritanceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaffTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StaffTest" />
+      <option name="MAIN_CLASS_NAME" value="StaffTest.EmployeeTest" />
+      <option name="METHOD_NAME" value="canNotChangeNameIfEmptyString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.canNotLowerSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InheritanceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaffTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StaffTest" />
+      <option name="MAIN_CLASS_NAME" value="StaffTest.EmployeeTest" />
+      <option name="METHOD_NAME" value="canNotLowerSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DirectorTest.canCheckPayBonus" />
+        <item itemvalue="JUnit.EmployeeTest.canNotChangeNameIfEmptyString" />
+        <item itemvalue="JUnit.EmployeeTest.canNotLowerSalary" />
+        <item itemvalue="JUnit.DirectorTest" />
+        <item itemvalue="JUnit.DeveloperTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46d033cb-e689-4996-9df8-53095b7c0dc5" name="Default Changelist" comment="" />
+      <created>1560773977200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560773977200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ManagerTest_hasDepartmen - 2019.06.17 at 13h 42m 07s.xml">
+      <configuration name="ManagerTest.hasDepartmen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseAdminTest - 2019.06.17 at 13h 50m 39s.xml">
+      <configuration name="DatabaseAdminTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseAdminTest - 2019.06.17 at 13h 51m 35s.xml">
+      <configuration name="DatabaseAdminTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperTest - 2019.06.17 at 13h 53m 51s.xml">
+      <configuration name="DeveloperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperTest - 2019.06.17 at 13h 54m 02s.xml">
+      <configuration name="DeveloperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DirectorTest - 2019.06.17 at 14h 01m 03s.xml">
+      <configuration name="DirectorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_canNotLowerSalary - 2019.06.17 at 14h 03m 06s.xml">
+      <configuration name="EmployeeTest.canNotLowerSalary" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_canNotChangeNameIfEmptyString - 2019.06.17 at 14h 07m 21s.xml">
+      <configuration name="EmployeeTest.canNotChangeNameIfEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_canNotChangeNameIfEmptyString - 2019.06.17 at 14h 07m 35s.xml">
+      <configuration name="EmployeeTest.canNotChangeNameIfEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DirectorTest_canCheckPayBonus - 2019.06.17 at 14h 17m 27s.xml">
+      <configuration name="DirectorTest.canCheckPayBonus" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18526466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InheritanceLab$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1560774635763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>StaffTest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/TechStaff/DatabaseAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/TechStaff/Developer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StaffTest/ManagementTest/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StaffTest/TechStaffTest/DatabaseAdminTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StaffTest/TechStaffTest/DeveloperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="94" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StaffTest/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1114#1115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StaffTest/ManagementTest/DirectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
